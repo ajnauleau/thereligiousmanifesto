@@ -1,0 +1,13 @@
+.align {
+    margin: auto 0;
+    text-align: center;
+}
+
+.sized {
+    width:100px;
+    height:100px;
+}
+
+.top {
+    margin-top: 120px;
+}
